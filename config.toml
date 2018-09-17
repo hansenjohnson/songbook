@@ -1,4 +1,4 @@
-baseurl = "https://hansenjohnson.github.io/"
+baseurl = "https://hansenjohnson.github.io/songbook"
 languageCode = "en-us"
 title = "Hansen's Songbook"
 theme = "hugo-xmin"
