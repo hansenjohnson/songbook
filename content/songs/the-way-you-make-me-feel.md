@@ -4,7 +4,7 @@ slug: the-way-you-make-me-feel
 artist: Michael Jackson
 tags:
   - capo 2
-  - key F#
+  - key Gb
   - soul
 ---
 ```
