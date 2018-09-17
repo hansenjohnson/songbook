@@ -8,6 +8,8 @@ tags:
 ---
 {{< youtube TvnYmWpD_T8 >}}
 ```
+Dm7(#5) G6(#9) F Eb(add9)
+
 I never meant to cause you any sorrow
 I never meant to cause you any pain
 I only wanted to one time to see you laughing

@@ -5,8 +5,13 @@ artist: The Rolling Stones
 tags:
   - rock
   - quiet
+  - key E
 ---
+{{< youtube RFNJBatJhDM >}}
+
 ```
+A/E E A/E E A/E D A E
+
 Take me to the station
 And put me on a train
 I've got no expectations
