@@ -1,0 +1,45 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Hansen's Songbook"
+theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+[taxonomies]
+  category = "artist"
+  tag = "tags"
+
+[permalinks]
+    song = "/songs/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Artists"
+    url = "/artist/"
+    weight = 2
+[[menu.main]]
+    name = "Songs"
+    url = "/songs/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+[[menu.main]]
+    name = "Tuner"
+    url = "/tuner/"
+    weight = 5
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 6
+
+[params]
+    description = "A simple site to organize my songbook"
+    footer = "&copy; Hansen Johnson 2018"

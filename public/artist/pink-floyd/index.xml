@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pink Floyd on Hansen&#39;s Songbook</title>
+    <link>/artist/pink-floyd/</link>
+    <description>Recent content in Pink Floyd on Hansen&#39;s Songbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/artist/pink-floyd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wish you were here</title>
+      <link>/songs/wish-you-were-here/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/songs/wish-you-were-here/</guid>
+      <description>So, so you think you can tell Heaven from hell Blue skies from pain Can you tell a green field From a cold steel rail? A smile from a veil? Do you think you can tell? Did they get you to trade Your heroes for ghosts? Hot ashes for trees? Hot air for a cool breeze? Cold comfort for change? Did you exchange A walk on part in the war For a lead role in a cage?</description>
+    </item>
+    
+  </channel>
+</rss>

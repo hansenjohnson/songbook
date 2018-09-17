@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Norah Jones on Hansen&#39;s Songbook</title>
+    <link>/artist/norah-jones/</link>
+    <description>Recent content in Norah Jones on Hansen&#39;s Songbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/artist/norah-jones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nearness of you</title>
+      <link>/songs/nearness-of-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/songs/nearness-of-you/</guid>
+      <description>It&#39;s not the pale moon that excites me That thrills and delights me Oh no, it&#39;s just the nearness of you It isn&#39;t your sweet conversation That brings this sensation Oh no, it&#39;s just the nearness of you When you&#39;re in my arms And I feel you so close to me All my wildest dreams came true I need no soft lights to enchant me If you will only grant me The right to hold you ever so tight And to feel in the night The nearness of you  </description>
+    </item>
+    
+  </channel>
+</rss>

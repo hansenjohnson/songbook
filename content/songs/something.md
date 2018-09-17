@@ -1,0 +1,34 @@
+---
+title: Something
+slug: something
+artist: The Beatles
+tags:
+  - sing along
+---
+
+```
+Something in the way she moves
+Attracts me like no other lover
+Something in the way she woos me
+I don't want to leave her now
+You know I believe and how
+
+Somewhere in her smile she knows
+That I don't need no other lover
+Something in her style that shows me
+I don't want to leave her now
+You know I believe and how
+
+You're asking me will my love grow
+I don't know, I don't know
+You stick around and it may show
+I don't know, I don't know
+
+[Solo]
+
+Something in the way she knows
+And all I have to do is think of her
+Something in the things she shows me
+I don't want to leave her now
+You know I believe and how
+```

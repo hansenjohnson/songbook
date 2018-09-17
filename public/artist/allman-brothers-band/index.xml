@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allman Brothers Band on Hansen&#39;s Songbook</title>
+    <link>/artist/allman-brothers-band/</link>
+    <description>Recent content in Allman Brothers Band on Hansen&#39;s Songbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/artist/allman-brothers-band/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Melissa</title>
+      <link>/songs/melissa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/songs/melissa/</guid>
+      <description>Crossroads, seem to come and go, yeah The gypsy flies from coast to coast Knowing many, loving none Bearing sorrow, having fun But, back home he&#39;ll always run To sweet Melissa Freight train, each car looks the same, all the same And no one knows the gypsy&#39;s name And no one hears his lonely sighs There are no blankets where he lies Lord, in his deepest dreams the gypsy flies With sweet Melissa Again, the mornin&#39;s come Again, he&#39;s on the run A sunbeam&#39;s shinin&#39; through his hair Fear not to have a care Well, pick up your gear and gypsy roll on Roll on Crossroads, will you ever let him go?</description>
+    </item>
+    
+    <item>
+      <title>Whipping post</title>
+      <link>/songs/whipping-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/songs/whipping-post/</guid>
+      <description>I&#39;ve been run down and I&#39;ve been lied to. And I don&#39;t know why, I let that mean woman make me a fool. She took all my money, wrecks my new car. Now she&#39;s with one of my good time buddies, They&#39;re drinkin in some cross-town bar. Sometimes I feel, sometimes I feel, Like I been tied to the whippin&#39; post. Tied to the whippin&#39; post, tied to the whippin&#39; post.</description>
+    </item>
+    
+  </channel>
+</rss>
