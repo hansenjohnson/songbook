@@ -1,0 +1,39 @@
+---
+title: The wind cries Mary
+slug: the-wind-cries-mary
+artist: Jimi Hendrix
+tags:
+  - rock
+---
+
+{{< youtube y33-wj0RAqA >}}
+
+```
+After all jacks are in their boxes
+And the clowns have all gone to bed
+You can hear happiness staggering on down the street
+Footprints dressed in red
+
+And the wind whispers Mary
+
+A broom is drearily sweeping
+Up the broken pieces of yesterday's life
+Somewhere a queen is weeping
+Somewhere a king has no wife
+
+And the wind, it cries Mary
+
+The traffic lights they turn a blue tomorrow
+And shine their emptiness down on my bed
+The tiny island sags downstream
+'Cause the life that they lived is dead
+
+And the wind screams Mary
+
+Will the wind ever remember?
+The names it has blown in the past
+And with its crutch, its old age and its wisdom
+It whispers "no, this will be the last"
+
+And the wind cries Mary
+```
