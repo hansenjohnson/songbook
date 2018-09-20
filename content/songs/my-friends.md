@@ -5,7 +5,6 @@ artist: Red Hot Chili Peppers
 tags:
   - drop d
 ---
-{{< youtube nW9Cu6GYqxo >}}
 ```
 Dsus Dsus/F G/B
 
