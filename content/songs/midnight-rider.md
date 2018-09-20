@@ -1,0 +1,37 @@
+---
+title: Midnight rider
+slug: midnight-rider
+artist: Allman Brothers Band
+tags:
+  - drop d
+---
+```
+D
+Well, I've got to run to keep from hidin'
+D
+And I'm bound to keep on ridin'
+D
+And I've got one more silver dollar
+
+D        F
+But I'm not gonna let 'em catch me, no
+G
+Not gonna let 'em catch the Midnight Rider
+
+And I don't own the clothes I'm wearing
+And the road goes on forever
+And I've got one more silver dollar
+
+But I'm not gonna let 'em catch me, no
+Not gonna let 'em catch the Midnight Rider
+
+And I've gone by the point of caring
+Some old bed I'll soon be sharing
+And I've got one more silver dollar
+
+But I'm not gonna let 'em catch me, no
+Not gonna let 'em catch the Midnight Rider
+
+No, I'm not gonna let 'em catch me, no
+Not gonna let 'em catch the Midnight Rider
+```
