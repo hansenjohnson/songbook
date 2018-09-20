@@ -6,7 +6,9 @@ tags:
   - reggae
 ---
 ```
+C               Am7   F
 Many rivers to cross
+        Em            F      G    C
 But I can't seem to find my way over
 Wandering I am lost
 As I travel along the white cliffs of Dover
@@ -16,9 +18,14 @@ And it's only my will that keeps me alive
 I've been licked, washed up for years
 And I merely survive because of my pride
 
+C7        
+F                       C               C7
 And this loneliness won't leave me alone
-It's such a drag to be on your own
+F                       C               C7
+It's such a crime to be on your own
+F                       C             Am7
 My woman left me and she didn't say why
+F                       G
 Well I guess, I have to try
 
 Many rivers to cross

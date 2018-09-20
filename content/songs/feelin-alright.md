@@ -7,6 +7,8 @@ tags:
   - fast
 ---
 ```
+C7 F7
+
 Seems I got to have a change of scene
 'Cause every night I have the strangest dreams
 Imprisoned by the way it could have been
