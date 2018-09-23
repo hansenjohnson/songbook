@@ -24,9 +24,11 @@ And I won't let it rule my heart tonight
 
 F     C
 I can change
-G     Am
+        G
 I can change
-F   C       G
+            Am  G
+I can still change
+F       C     G
 I can still change
 
 Tracin' an old pattern
