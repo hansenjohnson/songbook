@@ -10,7 +10,6 @@ tags:
 ---
 {{< youtube JA644rSZX1A >}}
 ```
-[Verse]
 E
 In the twilight glow I see,
 B                        E
@@ -19,9 +18,6 @@ E
 When we kissed good-bye and parted
   B                      E
 I knew we'd never meet again
-
-
-[Chorus]
 
 A
 Love is like a dying ember
@@ -32,11 +28,7 @@ And through the ages I'll remember
 B7                        E
 Blue eyes crying in the rain
 
-
 [Instrumental]
-
-
-[Chorus]
 
 A
 Someday when we meet up yonder
