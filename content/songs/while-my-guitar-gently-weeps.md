@@ -1,5 +1,5 @@
 ---
-title: While My Guitar Gently Weeps
+title: While my guitar gently weeps
 slug: while-my-guitar-gently-weeps
 artist: The Beatles
 tags:
