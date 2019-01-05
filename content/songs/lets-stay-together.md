@@ -7,6 +7,10 @@ tags:
 ---
 {{< youtube COiIC3A0ROM >}}
 ```
+[intro]
+Bbmaj7  Am7  Gm7 Am7
+Bbmaj7  Am7  Gm7 C7
+
 [verse]
 F                 Dm9
 I, I'm I'm so in love with you
