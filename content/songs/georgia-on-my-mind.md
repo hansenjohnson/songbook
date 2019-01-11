@@ -11,11 +11,11 @@ tags:
 ```
 G        B7      Em7  G7          C       C#o
 Georgia, Georgia,  the whole day through
-        G         Em     A7 D9                  G C G D9
+        G         E7     A7 D9                  Fo E7 A7 D9
 Just an old sweet song   keeps Georgia on my mind
 G        B7      Em7  G7          C       C#o
 Georgia,  Georgia,    a song of you
-        G         Em     A7 D9                  G C G B7
+        G         E7     A7 D9                  G C G B7
 Comes sweet and clear  as moonlight through the pines
 
 Em7   Em7/D# Em7/D    Em7/C# (walkdown)
