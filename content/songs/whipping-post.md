@@ -17,8 +17,8 @@ They're drinkin in some cross-town bar.
 Sometimes I feel, sometimes I feel,
 Like I been tied to the whippin' post.
 Tied to the whippin' post, tied to the whippin' post.
-
 Good Lord, I feel like I'm dyin'.
+
 My friends tell me, that I've been such a fool.
 But I had to stand by and take it baby, all for lovin' you.
 Drown myself in sorrow as I look at what you've done.
