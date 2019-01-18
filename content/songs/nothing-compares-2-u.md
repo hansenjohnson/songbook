@@ -28,7 +28,7 @@ But nothing, I said nothing can take away these blues
         A           (E/B)
 'Cause nothing compares
 A                   B
-Nothing compares to you
+Nothing compares to you (nothing, nothing)
 
 It's been so lonely without you here
 Like a bird without a song
@@ -43,7 +43,7 @@ He said boy you better try to have fun
 No matter what you do, but he's a fool
 
 'Cause nothing compares
-Nothing compares to you
+Nothing compares to you (nothing, nothing)
 
 [solo]
 
