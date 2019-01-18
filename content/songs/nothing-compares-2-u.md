@@ -35,15 +35,17 @@ Like a bird without a song
 Nothing can stop these lonely tears from falling
 Tell me baby where did I go wrong
 
-I could put my arms around every boy I see
+I could put my arms around every girl I see
 But they'd only remind me of you
 I went to the doctor and guess what he told me?
 (Guess what he told me?)
-He said girl you better try to have fun
+He said boy you better try to have fun
 No matter what you do, but he's a fool
 
 'Cause nothing compares
 Nothing compares to you
+
+[solo]
 
 All the flowers that you planted mama, in the back yard
 All died when you went away
