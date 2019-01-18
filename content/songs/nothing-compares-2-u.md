@@ -7,6 +7,7 @@ tags:
   - anthem
   - key B
 ---
+{{< youtube cpGA0azFdCs >}}
 ```
 Intro: F# B
 
