@@ -26,8 +26,8 @@ You don't wanna save me, sad is my song
 
 When you believe in things that you don't understand
 Then you suffer
-
 Superstition ain't the way, yeh, yeh
+
 Very superstitious, nothin' more to say
 Very superstitious, the devil's on his way
 Thirteen month old baby, broke the lookin' glass
