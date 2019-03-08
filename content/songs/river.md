@@ -4,7 +4,7 @@ slug: river
 artist: Leon Bridges
 tags:
   - slow
-  - key G#
+  - key Ab
 ---
 ```
 G# C# Bm
