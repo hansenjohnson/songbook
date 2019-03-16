@@ -5,9 +5,12 @@ artist: Steve Miller Band
 tags:
   - classic rock
   - sing along
+  - Key E
 ---
 {{< youtube F5N7qNid79s >}}
 ```
+E A B
+
 Some people call me the space cowboy, yeah
 Some call me the gangster of love
 Some people call me Maurice

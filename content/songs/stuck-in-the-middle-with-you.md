@@ -8,11 +8,17 @@ tags:
 ---
 {{< youtube OMAIsqvTh7g >}}
 ```
+D
 Well, I don't know why I came here tonight
+D
 I got the feeling that something ain't right
+G7
 I'm so scared in case I fall off my chair
+D
 And I'm wondering how I'll get down the stairs
+A                           C           G
 Clowns to the left of me, jokers to the right
+          D
 Here I am, stuck in the middle with you
 
 Yes, I'm stuck in the middle with you
@@ -22,9 +28,13 @@ Losing control, yeah, I'm all over the place
 Clowns to the left of me, jokers to the right
 Here I am, stuck in the middle with you
 
+G7
 Well, you started off with nothing
+                                          D
 And you're proud that you're a self-made man
+G7
 And your friends they all come crawlin'
+                                D       Am7
 Slap you on the back and say, "Please, please"
 
 Trying to make some sense of it all

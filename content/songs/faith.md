@@ -8,9 +8,13 @@ tags:
 ---
 {{< youtube 6Cs3Pvmmv0E >}}
 ```
+B
 Well I guess it would be nice
+B
 If I could touch your body
+            E
 I know not everybody
+                    B
 Has got a body like you
 
 But I've got to think twice
@@ -18,12 +22,17 @@ Before I give my heart away
 And I know all the games you play
 Because I play them too
 
-Oh but I
-Need some time off from that emotion
+          E                       B
+Oh but I need some time off from that emotion
+E                                 B         
 Time to pick my heart up off the floor
+              E       
 Oh when that love comes down
+B         G#7
 Without devotion
+          C#m7
 Well it takes a strong man baby
+        F#
 But I'm showing you the door
 
 ‘Cause I gotta have faith
