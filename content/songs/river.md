@@ -7,7 +7,7 @@ tags:
   - key Ab
 ---
 ```
-G# C# Bm
+Ab Db Bbm
 
 Been traveling these wide roads for so long
 My heart’s been far from you
