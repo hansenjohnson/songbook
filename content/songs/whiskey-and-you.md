@@ -6,6 +6,8 @@ tags:
   - country
   - drop d
 ---
+
+```
 Dsus riff
 There's a bottle on the dresser by your ring
 Bmin7
@@ -47,3 +49,4 @@ But one's a liar that helps to hide me from my pain
 And one's the long gone bitter truth
 That's the difference between whiskey and you
 Ah, that's the difference between whiskey and you
+```
