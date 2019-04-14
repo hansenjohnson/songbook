@@ -7,6 +7,8 @@ tags:
   - drop d
 ---
 
+{{< youtube 4bU3awqJ-GY >}}
+
 ```
 Dsus riff
 There's a bottle on the dresser by your ring
