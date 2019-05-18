@@ -17,7 +17,7 @@ C
 This house
       F       C
 She’s holding secrets
-  F      Am     F          C
+  F      Am     F          C     C/B
 I got my change behind the bed
 
 In a coffee can
@@ -33,6 +33,8 @@ And if I go, I’m goin' shameless
             F              C
 I’ll let my hunger take me there
 
+C F C Am F C
+
 This house
 She’s quite the talker
 She creaks and moans
@@ -47,6 +49,8 @@ I will stay if you dare
 And if I go, I’m goin' on fire
 Let my anger take me there
 
+C F C
+
     G
 The shingles, man, they’re shaking
     C                   F
@@ -55,6 +59,8 @@ The back door’s burning through
 This old house she’s quite the keeper
           F         C
 Quite the keeper of you
+
+C F C Am F C [Solo]
 
 I will go if you ask me to
 I will stay if you dare
