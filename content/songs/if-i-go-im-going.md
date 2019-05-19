@@ -3,7 +3,7 @@ title: If I go, I'm going
 slug: if-i-go-im-going
 artist: Gregory Alan Isakov
 tags:
-  - folks
+  - folk
   - quiet
   - capo 3
 ---
