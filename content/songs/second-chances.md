@@ -1,6 +1,6 @@
 ---
-title: If I go, I'm going
-slug: if-i-go-im-going
+title: Second chances
+slug: second-chances
 artist: Gregory Alan Isakov
 tags:
   - folk
