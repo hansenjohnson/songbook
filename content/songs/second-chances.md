@@ -46,7 +46,8 @@ oh my heart was all black
 but I saw something shine
 
 thought that part was yours, but it might just be mine
-I could share it with you, if you gave me the time
+I could share it with you
+if you gave me the time
 
     G         D       
 I’m all bloody knuckles,
