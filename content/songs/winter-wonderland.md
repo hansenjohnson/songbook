@@ -26,7 +26,6 @@ Bm           A            D
 Walking in a Winter Wonderland
 
 
-Chorus:
 F#            B              F#
 In the meadow we can build a snowman
 F#                B            F#
@@ -45,4 +44,29 @@ As we dream by the fire
 To face unafraid the plans that we made
 Bm           A            D
 Walking in a Winter Wonderland
+
+
+F#            B              F#
+In the meadow we can build a snowman
+F#                B            F#
+Then pretend that he's a circus clown
+A                  D                A
+We'll have lot's of fun with mister snowman
+    A7             E             A
+Until the other kids knock him down
+
+
+      D
+When it snows, ain't in thrilling
+      A
+Though your nose get's a chilling
+         A7      Em        A       A7
+We'll frolic and play, the eskimo way
+Bm           A            D
+Walking in a Winter Wonderland
+Bm           A            D
+Walking in a Winter Wonderland
+Bm           A            D    G DGD
+Walking in a Winter Wonderland
+
 ```
