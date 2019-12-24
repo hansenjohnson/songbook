@@ -34,7 +34,7 @@ how he came to life one day.
 
       C                   Bm             Am                G
 There must have been some magic in that old silk hat they found,
-    D                Dbdim          Em             D
+    D                D7          Em             D
 For when they put it on his head he began to dance around.
 
 
@@ -64,7 +64,7 @@ saying "Catch me if you can."
 
    C                 Bm                    Am             G
 He led them down the streets of town right to the traffic cop,
-       D             Dbdim          Em                 D
+       D             D7             Em                 D
 And he only paused a moment when he heard him holler, "Stop!"
 
 
@@ -82,6 +82,6 @@ Thumpety thump thump, thumpety thump thump,
 Look at Frosty go.
 
 Thumpety thump thump, thumpety thump thump,
-                                               G
+                                    D7                G C GCG
 over the hills of snow...Oh...Oh...over the hills of snow.
 ```

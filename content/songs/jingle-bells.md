@@ -40,32 +40,38 @@ Oh, what fun it is to ride
 D             C     G
 In a one horse open sleigh
 
-(lesser-known verses follow with the same chord structure)
-
+G
 A day or two ago
+                     C
 I thought I'd take a ride
+                      D
 And soon, Miss Fanny Bright
+                  G
 Was seated by my side,
+
 The horse was lean and lank
+                      C
 Misfortune seemed his lot
+                      D
 He got into a drifted bank
-And then we got upsot.
+                G
+And then we got upsot!
 
-A day or two ago,
-The story I must tell
-I went out on the snow,
-And on my back I fell;
-A gent was riding by
-In a one-horse open sleigh,
-He laughed as there I sprawling lie,
-But quickly drove away.
+G
+Oh, jingle bells, jingle bells
+G
+Jingle all the way
+C               G
+Oh, what fun it is to ride
+     D              D
+In a one horse open sleigh
+G
+Jingle bells, jingle bells
+G
+Jingle all the way
+C                      G
+Oh, what fun it is to ride
+D             C     G
+In a one horse open sleigh
 
-Now the ground is white
-Go it while you're young,
-Take the girls tonight
-and sing this sleighing song;
-Just get a bobtailed bay
-Two forty as his speed
-Hitch him to an open sleigh
-And crack! You'll take the lead
 ```

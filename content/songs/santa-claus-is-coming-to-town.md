@@ -6,15 +6,12 @@ tags:
   - christmas
 ---
 ```
-Intro: |C  Am |Dm    |C    |G     |
-
-Verse 1:
    C                        F
 You better watch out, you'd better not cry,
    C                       F
 you'd better not pout, I'm telling you why,
 C    Am       Dm        G C
-Santa Claus is coming to town. (Gather 'round...)
+Santa Claus is coming to town
        C               F
 He's making a list and checking it twice,
 C                      F               C     Am       Dm        G C

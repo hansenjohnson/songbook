@@ -50,4 +50,6 @@ G
 "Rudolph the red-nosed reindeer
                   C
 You'll go down in history"
+                     C  F CFC
+You'll go down in history"
 ```
