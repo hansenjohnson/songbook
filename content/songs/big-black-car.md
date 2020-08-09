@@ -1,7 +1,7 @@
 ---
 title: Big black car
 slug: big black car
-artist: Gregory Allan Isakov
+artist: Gregory Alan Isakov
 tags:
   - folk
   - capo 3
