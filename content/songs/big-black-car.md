@@ -39,8 +39,6 @@ This could be all that we know..
     D
 Of love and all.
  
-Am G F C
- 
 Am                G     F         C
 Well you were a dancer, I was a rag
 The song in my head, well was all that I had
