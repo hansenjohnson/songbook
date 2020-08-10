@@ -10,24 +10,29 @@ tags:
 {{< youtube E69qahzgeN8 >}}
 
 ```
+Am riff
+
 Am         G            F        C
 You were a phonograph, I was a kid
 I sat with an ear close, just listening
 I was there when the rain tapped her way down your face            
 You were a miracle I was just holdin your space
  
+Am riff
+
+Am         G            F        C
 Well time has a way of throwing it all in your face
 The past, she is haunted, the future is laced
 Heartbreak, ya know, drives a big black car
 Swear i was in the back seat, just minding my own
  
-[Chorus]
+Am riff
  
 G                                                C
 And through the glass, the corn crows come like rain
-           G                Am  Em
+           G                Am  
 They wont stay, they wont stay for 
-             C
+Em       C
 Too long now
                G           Am
 This could be all that we know..
@@ -55,9 +60,11 @@ Just walking the sidewalks all covered in rain
 love to just get into one of your stories
 Just me and all of my plain Jane glory
 Just me and all of my plain Jane glory
-Heyayayayay
-Ohhohohohoh
-Heyayayayay
-Heyay
-Heyay
+
+Am riff
+
+Am   G    F    C
+Heyayayayay (x4)
+
+Am riff
 ```
