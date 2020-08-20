@@ -1,6 +1,6 @@
 ---
 title: Big black car
-slug: big black car
+slug: big-black-car
 artist: Gregory Alan Isakov
 tags:
   - folk
