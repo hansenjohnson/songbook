@@ -8,7 +8,7 @@ tags:
 ---
 
 ```
-Capo 4 (I often play capo 6)
+Capo 4
 
 [Verse 1]
    C               G              Am       Am/G
