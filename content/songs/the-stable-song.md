@@ -12,7 +12,7 @@ tags:
 
 ```
 Capo 2
-C F G
+C C F C C G (x2)
 
 C                                      F
 remember when our songs were just like prayers.
@@ -23,7 +23,7 @@ come down come down sweet reverence,
 C      G        Am        F
 unto my simple house and ring, and ring.
 
-C F G
+C C F C C G (x2)
 
 F
 ring like silver, ring like gold
@@ -56,5 +56,5 @@ when it came oh it beat and it boiled and it rang…it’s ringing
 ring like crazy, ring like hell
 turn me back into that wild haired gale
 ring like silver, ring like gold
-turn these diamonds straight back into coal.
+turn these diamonds straight back into coal. (x2)
 ```
