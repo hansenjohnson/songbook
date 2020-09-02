@@ -26,7 +26,7 @@ But darling, just kiss me slow
 Your heart is all I own
 And in your eyes you're holding mine
 
-[Chorus]
+[Chorus 1]
 
 Baby, I'm dancing in the dark
 With you between my arms
@@ -51,10 +51,28 @@ Darling, just hold my hand
 Be my girl, I'll be your man
 I see my future in your eyes
 
-[Chorus]
+[Chorus 2]
+
+Baby, I'm dancing in the dark
+With you between my arms
+Barefoot on the grass
+Listening to our favourite song
+When I saw you in that dress
+Looking so beautiful
+I don't deserve this
+Darling, you look perfect tonight
 
 No, no, no
 
-[Chorus]
+[Chorus 3]
 
+Baby, I'm dancing in the dark
+With you between my arms
+Barefoot on the grass
+Listening to our favourite song
+I have faith in what I see
+Now I know I have met an angel in person
+And she looks perfect
+I don't deserve this
+You look perfect tonight
 ```
