@@ -1,0 +1,60 @@
+---
+title: Perfect
+slug: perfect
+artist: Ed Sheeran
+tags:
+  - pop
+---
+
+{{< youtube qyKE5FAdnPo >}}
+
+```
+Verse: G Em C D
+Chorus: Em C G D
+
+[Verse 1]
+
+I found a love for me
+Darling, just dive right in and follow my lead
+Well, I found a girl, beautiful and sweet
+Oh, I never knew you were the someone waiting for me
+
+'Cause we were just kids when we fell in love
+Not knowing what it was
+I will not give you up this time
+But darling, just kiss me slow
+Your heart is all I own
+And in your eyes you're holding mine
+
+[Chorus]
+
+Baby, I'm dancing in the dark
+With you between my arms
+Barefoot on the grass
+Listening to our favourite song
+When you said you looked a mess
+I whispered underneath my breath
+But you heard it,
+Darling, you look perfect tonight
+
+[Verse 2]
+
+Well, I found a woman, stronger than anyone I know
+She shares my dreams, I hope that someday I'll share her home
+I found a love to carry more than just my secrets
+To carry love, to carry children of our own
+
+We are still kids but we're so in love
+Fighting against all odds
+I know we'll be alright this time
+Darling, just hold my hand
+Be my girl, I'll be your man
+I see my future in your eyes
+
+[Chorus]
+
+No, no, no
+
+[Chorus]
+
+```
