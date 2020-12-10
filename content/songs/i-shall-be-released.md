@@ -3,7 +3,7 @@ title: I shall be released
 slug: i-shall-be-released
 artist: Bob Dylan
 tags:
-  - rock
+  - folk
 ---
 
 ```
