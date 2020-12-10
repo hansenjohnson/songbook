@@ -7,6 +7,8 @@ tags:
   - capo 1
 ---
 
+{{< youtube iOHkyZ62jjQ >}}
+
 ```
 Capo 1
 
