@@ -14,8 +14,6 @@ Capo 1
 
 G Am/G G D/F# G Am/G G
 
-Em D/F#
-
 Em                      D/F#     G     Am/G    G
 Oh, I’m sailin' away my own true love
 Em            D/F#        G     Am/G    G
