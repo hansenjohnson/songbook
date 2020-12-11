@@ -8,17 +8,17 @@ tags:
 
 ```
 C F Am Bb B C x3
-C F Am
+C F 
 
-Am7        Dm7
+Am7        Dm
 Times are hard
-        G7                 Cmaj7
+        G                 C
 You're afraid to pay the fee
        F                 Bb
 So you find yourself somebody
-        C              G/B  Am7  G
+        C              G  Am7  G/B
 Who can do the job for free
-Fmaj7    Am7            Dm7
+         Am7            Dm
 When you need a bit of lovin'
            G             Cmaj7
 Cause your man is out of town
@@ -28,15 +28,15 @@ That's the time you get me runnin'
 And you know I'll be around
  
 
-C      Fmaj7            Am7
+C      Fmaj7/C           Am7
  I'm a fool to do your dirty work
    Bb     B
 Oh yeah
-C        Fmaj7          Am7
+C        Fmaj7/C          Am7
  I don't wanna do your dirty work
    Bb     B
 No more
-C      F               Am7
+C      Fmaj7/C            Am7
  I'm a fool to do your dirty work
    Bb         C   F
 Oh yeah
