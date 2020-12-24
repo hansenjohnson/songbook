@@ -7,6 +7,8 @@ tags:
   - christmas
 ---
 ```
+[optional capo 7]
+
 G
 Bring in the kids (clap clap clap clap)
 G
