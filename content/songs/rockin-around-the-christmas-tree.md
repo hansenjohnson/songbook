@@ -30,7 +30,7 @@ Am                              D                   G
 Voices singing let's be jolly, deck the halls with boughs of holly
 C                                                   G
 Rocking around the Christmas tree, have a happy holiday
-G 												                      	C
+G 												                      C
 Everyone dancing merrily in the new old-fashioned way
 G                                                         C F CFC
 Everyone dancing merrily in the new   old - fa - shioned way
