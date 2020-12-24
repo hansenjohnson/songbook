@@ -7,59 +7,59 @@ tags:
   - christmas
 ---
 ```
-E
+G
 Bring in the kids (clap clap clap clap)
-E
+G
 Put out the cat (clap clap clap clap)
-E                                       B7
+G                                      D7
 Here comes that ol' man, roly poly and fat
-               E                   A
+               G                   C
 It's time for fun, it's time for cheer
-             E              B7          A           B7    E
+             G              D7          C           D7    G
 It's time to get together again, cause it's that time of year
 
-    A               E
+    C               G
 For another Hansen Christmas
-  A                             E
+  C                             G
 Started by Nany and Poppy long ago
-  A                      E  Dbm7
+  C                      G  Em
 Look around this is your family
-Gb7                                   B7
+A7                                   D7
 Shining with that good ol' Christmas glow
 
-E
+G
 We're gonna dance (clap clap clap clap)
-E
+G
 Sing a few tunes (clap clap clap clap)
-E                                                           B7
+G                                                           D7
 We're gonna go swing on a star and laugh at the man in the moon
-            E               A
+            G               C
 This is a day, of peace and love
-             E              B7          A           B7    E
+             G              D7          C           D7    G
 A day to get together with friends, and thank the lord above
 
 
-    A               E
+        C               G
 For another Hansen Christmas
-  A                             E
+  C                             G
 Started by Nany and Poppy long ago
-  A                      E  Dbm7
+  C                      G  Em
 Look around this is your family
-Gb7                                   B7
+A7                                   D7
 Shining with that good ol' Christmas glow
 
 
-E
+G
 When it's time to go (clap clap clap clap)
-E
+G
 We may shed a tear (clap clap clap clap)
-E                                                    B7
+G                                                    D7
 It's hard to leave some folks who we won't see for a year
-            E                   A
+            G                   C
 But in a while, we'll be back here
-      E              B7          E                B7 
+      G              D7          G                D7 
 For another Hansen Christmas, it's the spirit of Moriches
-             A              B7             E   A  EAE        
+             G              D7             G   C  GCG        
 It's that Hansen family Christmas time of year
 
 ```
