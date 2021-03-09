@@ -7,32 +7,36 @@ tags:
 ---
 {{< youtube HR4QigAASBA >}}
 ```
+C riff G (x2)
+
      C           G
 I'm sitting in a room
      C           G
 And waiting for an answer
-                    D                       G    
+     C               D                       G    
 And hoping that the lord sees fit to let me leave
 'Cause if the news ain't good
 And you ain't comin' back here
 I'm gonna stay until my bones have turned to leaves
 
-                 C
+G7               C
 I'm waiting on a word
              G
 Hanging on a prayer
-G
+      C          G
 White walls like limbo
 G                        D           
 They keep my feet on the ground
              G
 If I lose my baby
-    C                      G
+            C              G
 I tell you where they can lay me
 G
 Set me down on a cloud
         D                  G
 With my soul turned inside out
+
+C riff G (x2)
 
 Well they fixed me up good
 But my heart's still bleeding
@@ -48,6 +52,11 @@ If I lose my baby
 I tell you where they can lay me
 Set me down on a cloud
 With my soul turned inside out
-(x2)
+Set me down on a cloud
+With my soul turned inside out
+Set me down on a cloud
+With my soul turned inside out
+
+C riff G (x2)
 
 ```
