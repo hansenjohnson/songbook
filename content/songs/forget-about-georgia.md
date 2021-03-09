@@ -7,9 +7,11 @@ tags:
 ---
 {{< youtube T17dAHtMB_s >}}
 ```
+A riff (x4)
+
 A                          D                             A riff
 Well I sure as hell didn't love her this much when I met her
-A                   D                  A riff    
+A                            D              A riff    
 Much as I was just captured again and again
 D/A                     E/A                    A riff   
 She could turn her eyes away and still hold me under
@@ -31,6 +33,8 @@ Each night I pray, I'll forget about Georgia
 But a part of me hopes that she'll never forget about me
        D/A                     E/A               A riff
 Oh, a part of me hopes that she'll never forget about me
+
+A riff (x4)
 
 We made love for the first time in a hotel in San Francisco
 A night so perfect I try to forget about it now
