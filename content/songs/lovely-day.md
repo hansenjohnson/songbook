@@ -8,15 +8,23 @@ tags:
 ---
 
 ```
+Emaj7                 Dbm7
 When I wake up in the morning, love
+        Amaj7             Cmaj7  Bm7
 And the sunlight hurts my eyes
 And something without warning, love
 Bears heavy on my mind
 
+Cmaj7           Bm7
 Then I look at you
+      Am7                 Bm7   
 And the world's alright with me
+Cmaj7           Bm7
 Just one look at you
+          Am7         Bm7
 And I know it's gonna be
+
+Emaj7   Db  Amaj7  Cmaj7  Bm7
 A lovely day
 A lovely day
 

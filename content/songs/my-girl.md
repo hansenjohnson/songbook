@@ -6,7 +6,6 @@ tags:
   - sing along
   - soul
 ---
-{{< youtube C_CSjcm-z1w >}}
 ```
           C             F
 I've got sunshine on a cloudy day

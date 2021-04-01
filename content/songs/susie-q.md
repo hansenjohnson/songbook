@@ -6,8 +6,11 @@ tags:
   - rock
 ---
 ```
+E7
 Oh Susie Q,
+E7
 oh Susie Q
+E7       A             C  B  E7
 Oh Susie Q baby I love you, Susie Q
 
 I like the way you walk
