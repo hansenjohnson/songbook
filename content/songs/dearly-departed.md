@@ -34,10 +34,14 @@ I just had to
 
 [Chorus]
 
+Bridge:
+Am                G       D
 Even when one is dead and gone
 It still takes two to make a house a home
 Well I'm as lonesome as the catacombs
+C
 I hear you call my name but no one is there
+          D7
 Except a feeling in the air
 
 [Chorus]
