@@ -35,7 +35,8 @@ Because you stole from me, my chance to be
     Em        Em/F#    G    G#dim Am
 The tears of my Mother rain rain over me
 My sisters and my brothers sing sing over me
-And I wish I had another day, but it's just another day
+And I wish I had another day
+But it's just another day
 
 [Chorus]
 ```
