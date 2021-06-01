@@ -4,7 +4,7 @@ slug: coming-home
 artist: Leon Bridges
 tags:
   - slow
-  - key F#
+  - key Gb
 ---
 ```
 F# C# B
