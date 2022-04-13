@@ -1,5 +1,5 @@
 ---
-title: CLay pigeons
+title: Clay pigeons
 slug: clay-pigeons
 artist: John Prine
 tags:
@@ -32,6 +32,7 @@ And I won't have to go home
 Get used to being alone
 Change the words to this song
 And start singin' again
+
 I'm tired of runnin' round lookin' for answers
 To questions that I already know
 I could build me a castle with memories
