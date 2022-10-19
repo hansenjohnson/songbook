@@ -5,6 +5,7 @@ artist: Norah Jones
 tags:
   - quiet
   - jazz
+  - capo 4
 ---
 ```
 [Intro]
