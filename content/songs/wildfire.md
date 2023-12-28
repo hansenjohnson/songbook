@@ -1,7 +1,7 @@
 ---
 title: Wildfire
 slug: wildfire
-artist: Mandolin Orange
+artist: Watchhouse
 tags:
   - quiet
   - folk

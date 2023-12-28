@@ -1,7 +1,7 @@
 ---
 title: Take this heart of gold
 slug: take-this-heart-of-gold
-artist: Mandolin Orange
+artist: Watchhouse
 tags:
   - folk
   - capo 5
