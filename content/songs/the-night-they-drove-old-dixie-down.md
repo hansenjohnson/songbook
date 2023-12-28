@@ -10,9 +10,9 @@ Am      C/G                     F             Em      Dm
 Virgil Caine is the name and I served on the Danville train
 Am              C/G              F           Em      Dm
 'Til Stoneman's cavalry came and tore up the tracks again
-C                 F           C/G           Dm
+Am                 F           C/G           Dm
 In the winter of '65, we were hungry, just barely alive
-C                 F
+Am                 F
 By May the tenth, Richmond had fell
 C/G           Dm              D
 It's a time I remember, oh so well
