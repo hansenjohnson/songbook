@@ -32,14 +32,10 @@ footnotereturnlinkcontents = "↩"
     url = "/tags/"
     weight = 4
 [[menu.main]]
-    name = "Tuner"
-    url = "/tuner/"
-    weight = 5
-[[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 6
+    weight = 5
 
 [params]
     description = "A simple site to organize my songbook"
-    footer = "&copy; Hansen Johnson 2023"
+    footer = "&copy; Hansen Johnson 2024"

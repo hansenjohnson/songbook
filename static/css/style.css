@@ -2,7 +2,7 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 1em;
-  line-height: 1.5em;
+  line-height: 1.5;
 }
 
 /* header and footer areas */
@@ -11,12 +11,9 @@ body {
 .article-meta, .menu a {
   text-decoration: none;
   background: #eee;
-  line-height: 0.5;
   padding: 5px;
   border-radius: 5px;
 }
-.tags { font-size: .8em; }
-.artist { font-size: 1.1em; }
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 1.1em; }
 footer a { text-decoration: none; }
@@ -51,4 +48,4 @@ table {
 }
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
-thead, tfoot, tr:nth-child(even) { background: #eee }
+thead, tfoot, tr:nth-child(even) { background: #eee; }
