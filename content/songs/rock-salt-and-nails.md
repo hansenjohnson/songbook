@@ -8,8 +8,6 @@ tags:
 ---
 
 ```
-Tradi
-
 G      C            G               C            G
 On the banks of the river where the willows hang down
 G                     Em     C/G                 G
