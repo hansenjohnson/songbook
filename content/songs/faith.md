@@ -5,6 +5,7 @@ artist: George Michael
 tags:
   - classic rock
   - sing along
+draft: true
 ---
 {{< youtube 6Cs3Pvmmv0E >}}
 ```

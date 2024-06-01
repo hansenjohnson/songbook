@@ -5,6 +5,7 @@ artist: Leon Bridges
 tags:
   - slow
   - key Gb
+draft: true
 ---
 ```
 F# C# B
