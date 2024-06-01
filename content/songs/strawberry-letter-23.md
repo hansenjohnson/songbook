@@ -4,6 +4,7 @@ slug: strawberry-letter-23
 artist: Shuggie Otis
 tags:
   - soul
+draft: true
 ---
 {{< youtube iAPPAJ1sT8g >}}
 ```
