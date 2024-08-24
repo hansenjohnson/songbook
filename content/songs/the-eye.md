@@ -5,6 +5,7 @@ artist: Brandi Carlisle
 tags:
   - harmony
   - cove st
+  - capo 6
 ---
 ```
 [Intro]

@@ -5,6 +5,7 @@ artist: Jason Isbell
 tags:
   - harmony
   - cove st
+  - capo 5
 ---
 ```
 [Intro]
