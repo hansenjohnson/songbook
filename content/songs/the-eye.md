@@ -4,8 +4,12 @@ slug: the-eye
 artist: Brandi Carlisle
 tags:
   - harmony
+  - cove st
 ---
 ```
+[Intro]
+F C F C F C G Am F C
+
 [Verse]
 F C                        F C                        
   It really breaks my heart, to see a dear old friend
@@ -41,6 +45,14 @@ F C        G         Am       F        C     G
   Did you find someone else to take the blame?
 
 [Chorus]
+F                                    C
+I wrapped your love around me like a chain
+F                                    G
+But I never was afraid that it would die
+C                  F  Am
+You can dance in a hurricane
+Am                          G      C
+But only if you're standing in the eye
 
 [Post-Chorus]
 C                  F      Am
@@ -48,7 +60,8 @@ You can dance in a hurricane
 Am                          G      C
 But only if you're standing in the eye
 
-[Intro]
+[Intro / Break]
+F C F C F C G Am F C
 
 [Verse]
 
@@ -62,6 +75,14 @@ Can you fight the urge to run for another day?
 You might make it further if you learn to stay
 
 [Chorus]
+F                                    C
+I wrapped your love around me like a chain
+F                                    G
+But I never was afraid that it would die
+C                  F  Am
+You can dance in a hurricane
+Am                               G
+But only if you're standing in the eye
 
 [Outro]
 C                   F      Am
