@@ -33,4 +33,13 @@ They tell me I'm a fool, I pine for you, but what do they know?
 Tell me, baby, now why you been gone so long
 
 [Chorus]
+
+[Verse 3]
+Nothin' I gotta do, so I guess I'll go get stoned
+And let the past paint pictures in my head
+Drink a fifth of thunderbird and try to write a sad, sad song
+Tell me, baby, now why you been gone so long
+
+[Chorus]
+
 ```
