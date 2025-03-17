@@ -5,53 +5,47 @@ artist: Bonnie Raitt
 tags:
   - folk
   - sing along
-  - capo 3
-  - key Eb
 ---
 {{< youtube nW9Cu6GYqxo >}}
 ```
-C Em Em C C G/B Am
+G Bm Bm G G A/F# Em
 
-C             Em
+[Verse 1]
+G             Bm
 Turn down the lights
-Em              C
+Bm              G
 Turn down the bed
-C                G/B     Em        Am
+G                A/F#     Bm        Em
 Turn down these voices inside my head
-C             Em
 Lay down with me
-Em            C
 Tell me no lies
-C              G/B   Em    Am
 Just hold me close, don't patronize
-        D
-Don't patronize me
+        A
+Don't patronize
 
-                C             G           C
+[Chorus]
+                G             D           G
 'Cause I can't make you love me if you don't
-            C         G          G/B        C
+            G         D          A/F#        G
 You can't make your heart feel something it won't
-  Em          C       D/F#        Em
+  Bm          G       D/F#        Em
 Here in the dark, in these final hours
-        Em          C         D/F#          Em
+        Bm          G         A/F#          G
 I will lay down my heart and I'll feel the power
-        Am            D
+        Em            A
 But you won't, no you won't
-                C         G              C
+                G         D              G
 'Cause I can't make you love me, if you don't
 
-C Em Em C C G/B Am
+[Interlude]
+G Bm Bm G G A/F# Em
 
+[Verse 2]
 I'll close my eyes, then I won't see
 The love you don't feel when you're holding me
 Morning will come and I'll do what's right
 Just give me till then to give up this fight
 And I will give up this fight
 
-'Cause I can't make you love me if you don't
-You can't make your heart feel something it won't
-Here in the dark, in these final hours
-I will lay down my heart and I'll feel the power
-But you won't, no you won't
-'Cause I can't make you love me, if you don't
+[Chorus]
 ```
