@@ -4,7 +4,7 @@ slug: wild-horses
 artist: The Rolling Stones
 tags:
   - rock
-  - quiet
+  - emma
 ---
 ```
 Childhood living is easy to do

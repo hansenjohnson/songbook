@@ -5,6 +5,7 @@ artist: Sierra Ferrell
 tags:
   - country
   - capo 2
+  - emma
 ---
 
 ```

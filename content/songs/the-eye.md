@@ -4,8 +4,8 @@ slug: the-eye
 artist: Brandi Carlisle
 tags:
   - harmony
-  - cove st
   - capo 6
+  - emma
 ---
 ```
 [Intro]

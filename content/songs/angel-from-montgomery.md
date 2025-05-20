@@ -6,9 +6,8 @@ tags:
   - folk
   - sing along
   - capo 9
-  - key E
+  - emma
 ---
-{{< youtube 1T5NuI6Ai-o >}}
 ```
 G C G C G C D C
 
