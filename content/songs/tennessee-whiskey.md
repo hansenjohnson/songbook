@@ -4,7 +4,6 @@ slug: tennessee-whiskey
 artist: Chris Stapleton
 tags:
   - country
-  - belt
 ---
 ```
 A Bmin

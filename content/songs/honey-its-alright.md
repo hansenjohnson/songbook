@@ -4,8 +4,6 @@ slug: honey-its-alright
 artist: Gregory Alan Isakov
 tags:
   - folk
-  - quiet
-  - key C
 ---
 
 {{< youtube DQAQ-k41LP8 >}}

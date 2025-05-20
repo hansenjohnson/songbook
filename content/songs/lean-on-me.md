@@ -4,7 +4,7 @@ slug: lean-on-me
 artist: Bill Withers
 tags:
   - soul
-  - belt
+  - sing along
 ---
 
 {{< youtube KEXQkrllGbA >}}

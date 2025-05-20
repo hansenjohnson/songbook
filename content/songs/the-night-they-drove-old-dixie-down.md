@@ -4,6 +4,7 @@ slug: the-night-they-drove-old-dixie-down
 artist: The Band
 tags:
   - sing along
+  - rock
 ---
 ```
 Am      C/G                     F             Em      Dm

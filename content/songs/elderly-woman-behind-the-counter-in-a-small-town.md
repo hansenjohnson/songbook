@@ -4,7 +4,6 @@ slug: elderly-woman-behind-the-counter-in-a-small-town
 artist: Pearl Jam
 tags:
   - rock
-  - belt
 ---
 ```
 I seem to recognize your face

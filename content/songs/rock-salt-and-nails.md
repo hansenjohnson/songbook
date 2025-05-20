@@ -4,7 +4,7 @@ slug: rock-salt-and-nails
 artist: Tyler Childers
 tags:
   - bluegrass
-  - key of G
+  - country
 ---
 
 ```

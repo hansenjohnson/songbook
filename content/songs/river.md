@@ -3,8 +3,8 @@ title: River
 slug: river
 artist: Leon Bridges
 tags:
-  - slow
-  - key Ab
+  - soul
+  - sing along
 ---
 ```
 Ab Db Bbm

@@ -3,11 +3,12 @@ title: The eye
 slug: the-eye
 artist: Brandi Carlisle
 tags:
-  - harmony
-  - capo 6
+  - folk
   - emma
 ---
 ```
+Capo 6
+
 [Intro]
 F C F C F C G Am F C
 

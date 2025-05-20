@@ -3,9 +3,8 @@ title: Loretta
 slug: loretta
 artist: Taylor Ashton
 tags:
-  - harmony
-  - cove st
-  - capo 3
+  - country
+  - emma
 ---
 ```
 C F C F C (x2)

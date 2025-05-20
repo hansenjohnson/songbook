@@ -4,7 +4,6 @@ slug: friend-of-the-devil
 artist: Grateful Dead
 tags:
   - folk
-  - sing along
 ---
 
 ```

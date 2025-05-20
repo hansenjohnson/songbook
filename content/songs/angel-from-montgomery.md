@@ -4,8 +4,6 @@ slug: angel-from-montgomery
 artist: John Prine
 tags:
   - folk
-  - sing along
-  - capo 9
   - emma
 ---
 ```

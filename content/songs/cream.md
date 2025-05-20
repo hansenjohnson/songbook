@@ -3,8 +3,7 @@ title: Cream
 slug: cream
 artist: Prince
 tags:
-  - blues
-  - key Bb
+  - funk
 ---
 ```
 Bb

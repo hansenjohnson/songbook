@@ -4,12 +4,15 @@ slug: rockets
 artist: Infamous Stringdusters
 tags:
   - country
-  - capo 2
+  - bluegrass
   - drop d
+daft: true
 ---
 {{< youtube aRyUOHZMQm4 >}}
 
 ```
+Capo 2
+
 [all open sus chords; relative to capo]
 
 D walkdown riff

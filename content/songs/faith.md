@@ -3,7 +3,6 @@ title: Faith
 slug: faith
 artist: George Michael
 tags:
-  - classic rock
   - sing along
 draft: true
 ---

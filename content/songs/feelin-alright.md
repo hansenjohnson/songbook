@@ -4,7 +4,6 @@ slug: feelin-alright
 artist: Traffic
 tags:
   - rock
-  - fast
 ---
 ```
 C7 F7

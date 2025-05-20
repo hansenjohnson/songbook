@@ -3,7 +3,7 @@ title: I can change
 slug: i-can-change
 artist: Lake Street Dive
 tags:
-  - quiet
+  - rock
 ---
 {{< youtube 00fYHljn8aU >}}
 ```

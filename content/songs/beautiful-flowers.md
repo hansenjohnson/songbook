@@ -4,7 +4,6 @@ slug: beautiful-flowers
 artist: Watchhouse
 tags:
   - folk
-  - quiet
   - drop D
   - emma
 ---

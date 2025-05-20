@@ -4,8 +4,6 @@ slug: the-stable-song
 artist: Gregory Alan Isakov
 tags:
   - folk
-  - quiet
-  - capo 2
 ---
 
 {{< youtube RH6Ad8q-kas >}}

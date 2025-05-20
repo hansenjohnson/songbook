@@ -4,13 +4,13 @@ slug: time-will-tell
 artist: Gregory Alan Isakov
 tags:
   - folk
-  - quiet
-  - capo 5
 ---
 
 {{< youtube wepBAVq_3jQ >}}
 
 ```
+Capo 5
+
 F C F C F C G
 
 F       C       F    G

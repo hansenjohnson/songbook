@@ -4,8 +4,6 @@ slug: use-me
 artist: Bill Withers
 tags:
   - soul
-  - belt
-  - fast
 ---
 ```
 My friends feel it's their appointed duty

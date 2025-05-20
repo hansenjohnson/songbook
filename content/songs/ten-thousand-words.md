@@ -3,7 +3,7 @@ title: Ten thousand words
 slug: ten-thousand-words
 artist: The Avett Brothers
 tags:
-  - quiet
+  - folk
 ---
 {{< youtube jmDyNDsUqTE >}}
 ```

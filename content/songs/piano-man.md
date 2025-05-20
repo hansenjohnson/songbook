@@ -4,6 +4,7 @@ slug: piano-man
 artist: Billy Joel
 tags:
   - sing along
+draft: true
 ---
 ```
 

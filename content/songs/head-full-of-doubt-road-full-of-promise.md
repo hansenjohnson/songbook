@@ -3,7 +3,7 @@ title: Head full of doubt/road full of promise
 slug: head-full-of-doubt-road-full-of-promise
 artist: The Avett Brothers
 tags:
-  - quiet
+  - folk
 ---
 {{< youtube QeYSqZPzwr8 >}}
 ```

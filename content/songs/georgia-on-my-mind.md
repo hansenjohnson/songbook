@@ -3,9 +3,7 @@ title: Georgia on my mind
 slug: georgia-on-my-mind
 artist: Ray Charles
 tags:
-  - slow
-  - sing-along
-  - key G
+  - soul
 ---
 {{< youtube fRgWBN8yt_E>}}
 ```

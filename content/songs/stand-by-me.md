@@ -4,7 +4,6 @@ slug: stand-by-me
 artist: Ben E. King
 tags:
   - sing along
-  - classic
 ---
 ```
           D         

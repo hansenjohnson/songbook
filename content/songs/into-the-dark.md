@@ -3,7 +3,7 @@ title: Into the dark
 slug: into-the-dark
 artist: Death cab for cutie
 tags:
-  - alternative
+  - rock
 ---
 
 {{< youtube Nog3J4t3BfE >}}

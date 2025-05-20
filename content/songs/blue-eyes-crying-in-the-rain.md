@@ -4,9 +4,6 @@ slug: blue-eyes-crying-in-the-rain
 artist: Willie Nelson
 tags:
   - country
-  - slow
-  - sing-along
-  - key E
 ---
 {{< youtube JA644rSZX1A >}}
 ```

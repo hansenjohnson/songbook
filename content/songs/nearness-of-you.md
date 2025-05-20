@@ -4,7 +4,6 @@ slug: nearness-of-you
 artist: Norah Jones
 tags:
   - jazz
-  - quiet
 ---
 ```
 It's not the pale moon that excites me

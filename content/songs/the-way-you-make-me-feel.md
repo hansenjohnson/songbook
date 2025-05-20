@@ -3,8 +3,8 @@ title: The way you make me feel
 slug: the-way-you-make-me-feel
 artist: Michael Jackson
 tags:
-  - key A
   - soul
+  - rock
 ---
 ```
 Hey pretty baby with the high heels on

@@ -3,10 +3,10 @@ title: Clay pigeons
 slug: clay-pigeons
 artist: John Prine
 tags:
-  - country 
-  - capo 3
+  - country  
 ---
 ```
+Capo 3
 G C/G G D7/F# (repeat)
 
 I'm goin' down to the Greyhound Station

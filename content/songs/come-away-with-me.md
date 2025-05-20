@@ -3,11 +3,11 @@ title: Come away with me
 slug: come-away-with-me
 artist: Norah Jones
 tags:
-  - quiet
   - jazz
-  - capo 4
 ---
 ```
+Capo 4
+
 [Intro]
 C   Am7   C   Am7   C   Am7   C   Am7
 

@@ -4,7 +4,6 @@ slug: coming-home
 artist: Leon Bridges
 tags:
   - slow
-  - key Gb
 draft: true
 ---
 ```

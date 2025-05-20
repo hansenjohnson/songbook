@@ -4,6 +4,7 @@ slug: layla
 artist: Eric Clapton
 tags:
   - rock
+draft: true
 ---
 ```
 What'll you do when you get lonely

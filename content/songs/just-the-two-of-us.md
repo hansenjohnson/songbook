@@ -3,7 +3,6 @@ title: Just the two of us
 slug: just-the-two-of-us
 artist: Bill Withers
 tags:
-  - sing along
   - soul
 ---
 

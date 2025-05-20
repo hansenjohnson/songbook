@@ -3,13 +3,13 @@ title: Wildfire
 slug: wildfire
 artist: Watchhouse
 tags:
-  - quiet
   - folk
-  - capo 4
 ---
 {{< youtube r9jwGansp1E >}}
 
 ```
+Capo 4
+
 G F C
 
 Brave men fought with the battle cry

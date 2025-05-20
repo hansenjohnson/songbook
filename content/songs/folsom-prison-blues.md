@@ -3,7 +3,7 @@ title: Folsom prison blues
 slug: folsom-prison-blues
 artist: Johnny Cash
 tags:
-  - folk
+  - country
 ---
 ```
 I hear the train a comin'

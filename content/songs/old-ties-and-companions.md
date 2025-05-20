@@ -4,6 +4,7 @@ slug: old-ties-and-companions
 artist: Watchhouse
 tags:
   - folk
+  - country
   - emma
 ---
 ```

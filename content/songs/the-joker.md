@@ -3,9 +3,8 @@ title: The Joker
 slug: the-joker
 artist: Steve Miller Band
 tags:
-  - classic rock
+  - rock
   - sing along
-  - Key E
 ---
 {{< youtube F5N7qNid79s >}}
 ```

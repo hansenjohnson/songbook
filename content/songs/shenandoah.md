@@ -5,6 +5,7 @@ artist: Traditional
 tags:
   - sing along
   - classic
+draft: true
 ---
 ```
 

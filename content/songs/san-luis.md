@@ -4,8 +4,6 @@ slug: san-luis
 artist: Gregory Alan Isakov
 tags:
   - folk
-  - quiet
-  - capo 3
 ---
 ```
 Capo 3

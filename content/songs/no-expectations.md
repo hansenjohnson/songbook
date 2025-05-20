@@ -4,8 +4,6 @@ slug: no-expectations
 artist: The Rolling Stones
 tags:
   - rock
-  - quiet
-  - key E
 ---
 {{< youtube RFNJBatJhDM >}}
 

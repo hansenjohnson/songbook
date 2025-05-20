@@ -4,7 +4,6 @@ slug: on-and-on
 artist: Tony Rice
 tags:
   - bluegrass
-  - key of G
 ---
 
 ```

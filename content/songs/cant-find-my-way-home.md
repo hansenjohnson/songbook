@@ -3,8 +3,8 @@ title: Can't find my way home
 slug: cant-find-my-way-home
 artist: Stevie Winwood
 tags:
-  - quiet
   - drop d
+  - rock
 ---
 
 {{< youtube 6jlLBs6YawM >}}

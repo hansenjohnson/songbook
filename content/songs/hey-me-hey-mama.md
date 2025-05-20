@@ -4,7 +4,6 @@ slug: hey-me-hey-mama
 artist: Sierra Ferrell
 tags:
   - country
-  - capo 2
   - emma
 ---
 

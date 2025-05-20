@@ -4,7 +4,6 @@ slug: river-of-deceit
 artist: Mad Season
 tags:
   - rock  
-  - key G
 ---
 
 {{< youtube Fm72DPJCX58 >}}

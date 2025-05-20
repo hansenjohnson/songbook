@@ -4,10 +4,11 @@ slug: house-of-the-rising-sun
 artist: The Animals
 tags:
   - rock
-  - capo 3
 ---
 
 ```
+Capo 3
+
 Am C D F (x3)
 Am Em Am
 

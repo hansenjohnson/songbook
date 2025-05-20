@@ -3,9 +3,7 @@ title: Nothing compares 2 u
 slug: nothing-compares-2-u
 artist: Prince
 tags:
-  - slow
-  - anthem
-  - key B
+  - rock
 ---
 {{< youtube cpGA0azFdCs >}}
 ```

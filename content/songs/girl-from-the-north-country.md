@@ -4,10 +4,12 @@ slug: girl-from-the-north-country
 artist: Bob Dylan
 tags:
   - folk
-  - capo 3
+draft: true
 ---
 {{< youtube rK1Rn_eoeeE >}}
 ```
+Capo 3
+
 Em9       D/F#          G       C/G  G   C/G
 If you're traveling the north country fair
 Where the winds hit heavy on the borderline

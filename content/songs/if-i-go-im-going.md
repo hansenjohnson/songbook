@@ -4,13 +4,12 @@ slug: if-i-go-im-going
 artist: Gregory Alan Isakov
 tags:
   - folk
-  - quiet
-  - capo 3
 ---
 
 {{< youtube q3gnxO8bUxQ >}}
 
 ```
+Capo 3
 C F C Am F C
 
 C

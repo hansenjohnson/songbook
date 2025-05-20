@@ -4,7 +4,6 @@ slug: dont-think-twice-its-alright
 artist: Bob Dylan
 tags:
   - folk
-  - capo 4
 ---
 
 ```

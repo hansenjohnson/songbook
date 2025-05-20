@@ -3,10 +3,10 @@ title: Sweeter
 slug: sweeter
 artist: Leon Bridges
 tags:
-  - slow
-  - capo 3
+  - soul 
 ---
 ```
+Capo 3
 Em Em/F# G  (x2)
 C  C/B   Am (x2)
 

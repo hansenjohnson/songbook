@@ -4,7 +4,7 @@ slug: stuck-in-the-middle-with-you
 artist: Stealers Wheel
 tags:
   - folk
-  - key G
+  - sing along
 ---
 {{< youtube OMAIsqvTh7g >}}
 ```

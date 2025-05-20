@@ -6,7 +6,7 @@ tags:
   - folk
 ---
 ```
-capo 2
+Capo 2
 
 C riff
 

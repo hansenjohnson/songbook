@@ -4,11 +4,11 @@ slug: gold
 artist: Penny and Sparrow
 tags:
   - folk
-  - slow
-  - capo 6
 ---
 {{< youtube dtMSdB5WeMs >}}
 ```
+Capo 6
+
 C                   G/B         
 Covered in gold, forgetting my skin
           F

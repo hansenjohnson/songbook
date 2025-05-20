@@ -3,7 +3,7 @@ title: I can't make you love me
 slug: i-cant-make-you-love-me
 artist: Bonnie Raitt
 tags:
-  - folk
+  - rock
   - sing along
 ---
 {{< youtube nW9Cu6GYqxo >}}

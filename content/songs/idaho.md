@@ -4,6 +4,7 @@ slug: idaho
 artist: Gregory Alan Isakov
 tags:
   - folk
+  - emma
 ---
 
 ```

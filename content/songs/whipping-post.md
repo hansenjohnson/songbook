@@ -4,8 +4,6 @@ slug: whipping-post
 artist: Allman Brothers Band
 tags:
   - rock
-  - belt
-  - fast
 ---
 ```
 I've been run down and I've been lied to.

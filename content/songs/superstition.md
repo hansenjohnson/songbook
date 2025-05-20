@@ -4,9 +4,10 @@ slug: superstition
 artist: Stevie Wonder
 tags:
   - funk
-  - key D
 ---
 ```
+Capo 6
+
 D riff
 Very superstitious, writing on the wall
 Very superstitious, ladders bout' to fall

@@ -3,14 +3,13 @@ title: Cover me up
 slug: cover-me-up
 artist: Jason Isbell
 tags:
-  - folk
-  - belt
+  - country
 ---
 
 {{< youtube z9L6H-URx9s >}}
 
 ```
-Capo 2 with open E (modified drop D)
+Capo 2 with open E (modified drop D) or drop D
 
 [Verse 1]
 

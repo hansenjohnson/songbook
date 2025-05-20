@@ -4,12 +4,13 @@ slug: big-black-car
 artist: Gregory Alan Isakov
 tags:
   - folk
-  - capo 3
 ---
 
 {{< youtube E69qahzgeN8 >}}
 
 ```
+Capo 3
+
 Am riff
 
 Am         G            F        C

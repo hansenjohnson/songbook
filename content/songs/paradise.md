@@ -4,7 +4,6 @@ slug: paradise
 artist: John Prine
 tags:
   - country 
-  - capo 2
 ---
 
 ```

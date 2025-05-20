@@ -4,7 +4,6 @@ slug: come-together
 artist: The Beatles
 tags:
   - drop d
-  - sing along
 ---
 
 ```

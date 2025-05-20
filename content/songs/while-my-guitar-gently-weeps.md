@@ -4,12 +4,11 @@ slug: while-my-guitar-gently-weeps
 artist: The Beatles
 tags:
   - rock
-  - sing-along
-  - capo 5
+  - sing along
 ---
 {{< youtube VJDJs9dumZI >}}
 ```
-Capo 5th fret
+Capo 5
 
 Dm  (walkdown)
 I look at you all see the love there that's sleeping

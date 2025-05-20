@@ -4,7 +4,6 @@ slug: west-virginia-waltz
 artist: Sierra Ferrell
 tags:
   - country
-  - capo 4
 ---
 
 ```

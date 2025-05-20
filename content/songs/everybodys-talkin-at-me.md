@@ -3,7 +3,7 @@ title: Everybody's talkin at me
 slug: everybodys-talkin-at-me
 artist: Harry Nilsson
 tags:
-  - quiet
+  - folk
 ---
 ```
 Everybody's talkin' at me

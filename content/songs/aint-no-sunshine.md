@@ -5,7 +5,6 @@ artist: Bill Withers
 tags:
   - sing along
   - soul
-  - belt
 ---
 ```
 Am7 Em G Am7

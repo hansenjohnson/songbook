@@ -3,8 +3,7 @@ title: Virginia May
 slug: virginia-may
 artist: Gregory Alan Isakov
 tags:
-  - harmony
-  - cove st
+  - folk
 ---
 ```
 [Intro]

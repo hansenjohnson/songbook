@@ -4,6 +4,7 @@ slug: wildfiretiny-dancer
 artist: Elton John
 tags:
   - sing along
+draft: true
 ---
 ```
 

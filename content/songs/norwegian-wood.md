@@ -3,10 +3,11 @@ title: Norwegian wood
 slug: norwegian-wood
 artist: The Beatles
 tags:
-  - quiet  
-  - capo 2
+  - rock
 ---
 ```
+Capo 2
+
 D
 I once had a girl
                  C        G  D

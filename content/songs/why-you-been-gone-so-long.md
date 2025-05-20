@@ -4,12 +4,11 @@ slug: why-you-been-gone-so-long
 artist: Tony Rice
 tags:
   - bluegrass
-  - key of E
-  - capo 2
 ---
 
 ```
-Capo 2 D - G - A (I VI V)
+Capo 2 
+D - G - A (I VI V)
 
 [Verse 1]
 Every time it rains, Lord, I run to my window

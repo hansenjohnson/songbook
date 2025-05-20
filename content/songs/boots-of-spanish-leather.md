@@ -4,7 +4,6 @@ slug: boots-of-spanish-leather
 artist: Bob Dylan
 tags:
   - folk
-  - capo 1
 ---
 
 {{< youtube iOHkyZ62jjQ >}}

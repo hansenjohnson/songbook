@@ -4,8 +4,6 @@ slug: second-chances
 artist: Gregory Alan Isakov
 tags:
   - folk
-  - quiet
-  - capo 2
 ---
 
 {{< youtube ATFAFZI5tuA >}}

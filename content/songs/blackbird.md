@@ -4,8 +4,8 @@ slug: blackbird
 artist: The Beatles
 tags:
   - sing along
-  - quiet
 ---
+
 ```
 Blackbird singing in the dead of night
 Take these broken wings and learn to fly

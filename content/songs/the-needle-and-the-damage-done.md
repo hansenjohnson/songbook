@@ -4,7 +4,6 @@ slug: the-needle-and-the-damage-done
 artist: Neil Young
 tags:
   - rock
-  - key D
 ---
 ```
 Intro: D D/C D/B D/Bb C C7 Esus4 E

@@ -3,11 +3,11 @@ title: If we were vampires
 slug: if-we-were-vampires
 artist: Jason Isbell
 tags:
-  - harmony
-  - cove st
-  - capo 5
+  - folk 
 ---
 ```
+Capo 5
+
 [Intro]
 
 Am  Em  F

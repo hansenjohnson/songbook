@@ -4,9 +4,10 @@ slug: fraulein
 artist: Colter Wall
 tags:
   - country
+  - emma
 ---
 ```
-
+Capo 4 for duet
 G C D
 
 [Verse 1]

@@ -4,10 +4,10 @@ slug: hello-in-there
 artist: John Prine
 tags:
   - country 
-  - capo 2
 ---
 {{< youtube OVhA01J0Zsg >}}
 ```
+Capo 2
 
 G  Am7  D7 G  Am7  D7  Bm  C  G  D/F#
 

@@ -4,14 +4,12 @@ slug: echo
 artist: Watchhouse
 tags:
   - folk
-  - capo 3
   - emma
 
 ---
+```
 Capo 3
 
-
-```
 G
 Well I try to close my eyes, clear my mind
     Em                         G

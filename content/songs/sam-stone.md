@@ -4,7 +4,6 @@ slug: sam-stone
 artist: John Prine
 tags:
   - country 
-  - capo 3
 ---
 
 ```

@@ -4,7 +4,6 @@ slug: cortez-the-killer
 artist: Neil Young
 tags:
   - rock
-  - key Em
 ---
 
 {{< youtube m-b76yiqO1E >}}
