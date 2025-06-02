@@ -3,7 +3,8 @@ title: Best part
 slug: best-part
 artist: Daniel Caesar
 tags:
-  - rnb
+  - soul
+  - emma
 ---
 
 ```
