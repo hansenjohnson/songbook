@@ -45,7 +45,7 @@ Em                       G
 With no bend and sway at all
 C                     D
 That ancient dance was lost
-        Em                 C
+        Em     D           C
 And the wind moved like an echo
 D            G
 Beside every gust
@@ -58,12 +58,17 @@ That land of funny wine
 Where the coffee grows on the white oak trees
         Am
 And those sugar coated mountains
-        
+        G                   C
 In the spring begin to melt into
 
-Sweetest streams
+         Em
+Sweetest dreams
+G       
 Where each night the starlight and the sea
+C             D
 Together form eternity
+        Em   D             C
 And the wind moves like an echo
+        D                 G
 As the world drops off to sleep
 ```
