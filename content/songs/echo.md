@@ -5,7 +5,6 @@ artist: Watchhouse
 tags:
   - folk
   - emma
-
 ---
 ```
 Capo 3
