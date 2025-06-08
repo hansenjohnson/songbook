@@ -32,7 +32,7 @@ Call me up and share your woes
 And we'll try to find some understanding
 Before you go
 
-[Verse 3]
+[Chorus 2]
 Whose fire rains down upon you?
 Whose conscience fills the air?
 Ain't it something? All the little patterns?
