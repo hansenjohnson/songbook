@@ -7,8 +7,6 @@ tags:
   - emma
 ---
 ```
-Capo 3
-
 G
 Well I try to close my eyes, clear my mind
     Em                         G
@@ -60,9 +58,9 @@ And those sugar coated mountains
         G                   C
 In the spring begin to melt into
 
-         Em
+C                   Em
 Sweetest dreams
-G       
+Em                                      G       
 Where each night the starlight and the sea
 C             D
 Together form eternity

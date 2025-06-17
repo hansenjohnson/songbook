@@ -36,7 +36,7 @@ At least not till she's all alone
 Loretta, I won't be gone long
 Keep your dancing slippers on
 Keep me on your mind a while
-I'll be home to make you smile (x2)
+I'll be back babe to make you smile (x2)
 
 Well, Loretta, she's my barroom girl
 Wears them sevens on her sleeve

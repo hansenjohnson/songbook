@@ -22,7 +22,7 @@ A                                E
 Did someone desert you when you needed them the most?
 A                           E
 And the pain stayed with you everywhere you'd go,
-A                                 E                  C#m
+A                                 E                  C#m     A
 And it's been so long now but you just can't seem to let it go,
 
 [Chorus 1]
@@ -44,7 +44,7 @@ Maybe it's time to tell it you won't carry it anymore.
 [Bridge]
 C#m                E    C#m                   E
 We ain't got a long time and there's a lot to do
-C#m                   E        C#m         B
+C#m                   E        C#m         B     A
 But first you gotta decide to leave some things behind
 
 [Chorus 3]
