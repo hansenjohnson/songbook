@@ -62,9 +62,9 @@ C                   Em
 Sweetest dreams
 Em                                      G       
 Where each night the starlight and the sea
-C             D
+C             D 
 Together form eternity
-        Em   D             C
+(slow)   Em   D             C
 And the wind moves like an echo
         D                 G
 As the world drops off to sleep
