@@ -4,6 +4,7 @@ slug: blue-eyes-crying-in-the-rain
 artist: Willie Nelson
 tags:
   - country
+  - emma
 ---
 {{< youtube JA644rSZX1A >}}
 ```
