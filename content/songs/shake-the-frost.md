@@ -9,14 +9,8 @@ tags:
 ```
 Capo 2
 
-Intro is in 6/8
-
-[Intro]
-| G   C/G |  G     |
-| F  C    |  G C/G |
-| F  C    |  G C/G |
-| G       |
-
+[Intro in 6/8]
+F C G (x2)
  
 [Verse 1]
      Am
@@ -33,7 +27,7 @@ Love the way the mornin' opens
 To a soft and bright greetin' from the sun
 
 [Chorus]
-                F          G   C/G   G
+           F        G   C/G   G
 So if it'd make you stay
                   Am
 I wouldn't act so angry all the time
@@ -44,15 +38,10 @@ and I'd let you know how much I loved you every day
      F               C          G                   Am        Am/B     G     
 So, darlin' will you stay right here and shake this frost off of my bones
 
-C/G  G  C/G
-
-[Instrumental]
-| F  C    |  G C/G |
-| F  C    |  G C/G |
-|  G C/G  |  G C/G |
+[Instrumental in 6/8]
+F C G (x2)
 
 [Verse 2]
-
 Well, I used to ride a mustang
 And I'd run that thing on high hopes
 'Til they raised the price of dreams so high I couldn't pay
@@ -65,5 +54,4 @@ windows down, while the music played
 [Outro]
     F               C          G                   Am       Am/B     G     
 So darlin' will you stay right here and shake this frost off of my bones
-C/G  G
 ```
