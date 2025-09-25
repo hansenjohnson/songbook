@@ -6,7 +6,7 @@ tags:
   - folk
   - emma
 ---
-
+```
 Intro is in 6/8
 
 [Intro]
@@ -64,3 +64,4 @@ windows down, while the music played
     F               C          G                   Am       Am/B     G     
 So darlin' will you stay right here and shake this frost off of my bones
 C/G  G
+```
