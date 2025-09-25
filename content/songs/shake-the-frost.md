@@ -7,6 +7,8 @@ tags:
   - emma
 ---
 ```
+Capo 2
+
 Intro is in 6/8
 
 [Intro]
