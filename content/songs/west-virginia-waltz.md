@@ -4,6 +4,7 @@ slug: west-virginia-waltz
 artist: Sierra Ferrell
 tags:
   - country
+  - emma
 ---
 
 ```

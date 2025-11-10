@@ -5,6 +5,7 @@ artist: Prince
 tags:
   - rock
   - soul
+  - emma
 ---
 {{< youtube TvnYmWpD_T8 >}}
 ```

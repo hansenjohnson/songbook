@@ -4,6 +4,7 @@ slug: many-rivers-to-cross
 artist: Jimmy Cliff
 tags:
   - reggae
+  - emma
 ---
 ```
 C               Am7   F

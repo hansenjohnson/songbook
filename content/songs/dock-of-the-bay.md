@@ -5,9 +5,12 @@ artist: Otis Redding
 tags:
   - sing along
   - soul
+  - emma
 ---
 
 ```
+Capo 2 for duet
+
 G                      B
 Sittin' in the mornin' sun
         C                         A
