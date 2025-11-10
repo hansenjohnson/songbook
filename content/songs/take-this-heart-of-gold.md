@@ -4,6 +4,7 @@ slug: take-this-heart-of-gold
 artist: Watchhouse
 tags:
   - folk 
+  - emma
 ---
 
 {{< youtube WwaIWAH9OtQ >}}
