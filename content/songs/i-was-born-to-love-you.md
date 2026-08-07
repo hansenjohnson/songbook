@@ -48,7 +48,7 @@ Don't you think it's time you learn to let yourself receive?
 
 [verse 3]
 Could make you smile, could make you sing
-Just want to give back a little bit of what you give me
+Just want to give back a little bit of what you give to me
 I could sing you a song, play you a tune
 I know it's just a little thing, but it's something I can do
 
