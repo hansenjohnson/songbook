@@ -16,7 +16,7 @@ G                       D
 You give me a sign, you give me a lift
 Am                      C
 Take me home when I'm done my shift
-You get me alone when I'm stone cold broke
+You give me a loan when I'm stone cold broke
 Get me high when I need a toke
 
 [chorus]
