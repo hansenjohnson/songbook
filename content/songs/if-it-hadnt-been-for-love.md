@@ -6,6 +6,7 @@ tags:
   - emma
 ---
 ```
+Capo 4 for duet
 
 [Verse 1]
 Am

@@ -4,6 +4,7 @@ slug: i-was-born-to-love-you
 artist: Ray Lamontagne
 tags:
   - folk
+  - emma
 ---
 
 ```

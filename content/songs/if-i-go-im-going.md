@@ -4,6 +4,7 @@ slug: if-i-go-im-going
 artist: Gregory Alan Isakov
 tags:
   - folk
+  - emma
 ---
 
 {{< youtube q3gnxO8bUxQ >}}
